@@ -1,0 +1,8 @@
+{
+  "app": "MARLEV Trading Command Center",
+  "market": "PSE",
+  "data_type": "daily_ohlcv",
+  "symbols": ["BDO", "SMPH"],
+  "status": "setup",
+  "last_updated": null
+}
